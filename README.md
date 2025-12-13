@@ -20,13 +20,6 @@ Preliminary results demonstrate substantial student learning across technical, p
 
 Findings suggest implications for curriculum design, summer research program models, and employability interventions at teaching-focused institutions serving workforce-bound students.
 
-## Publication Details
-
-- **Conference:** Foundations of Digital Games 2026 (FDG '26)
-- **Date:** May 2026
-- **Type:** Work-in-Progress Paper
-- **Document Class:** ACM sigconf format
-
 ## Keywords
 
 - Experiential learning
