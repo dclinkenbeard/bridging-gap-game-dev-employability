@@ -1,0 +1,228 @@
+# LaTeX auxiliary files
+*.aux
+*.lof
+*.log
+*.lot
+*.fls
+*.out
+*.toc
+*.fmt
+*.fot
+*.cb
+*.cb2
+.*.lb
+
+# LaTeX intermediate files
+*.dvi
+*.xdv
+*-converted-to.*
+
+# Bibliography auxiliary files
+*.bbl
+*.bcf
+*.blg
+*-blx.aux
+*-blx.bib
+*.run.xml
+
+# Build tool auxiliary files
+*.fdb_latexmk
+*.synctex
+*.synctex(busy)
+*.synctex.gz
+*.synctex.gz(busy)
+*.pdfsync
+
+# Build directories
+*.latexmain
+
+# Nomenclature
+*.acn
+*.acr
+*.glg
+*.glo
+*.gls
+*.glsdefs
+*.lzo
+*.lzs
+*.slg
+*.slo
+*.sls
+
+# Uncomment this to also ignore the intermediate DVI file:
+#*.dvi
+
+# Hyperref
+*.brf
+
+# Knitr
+*-concordance.tex
+
+# Todo notes
+*.tdo
+
+# Xindy
+*.xdy
+
+# Makeindex
+*.idx
+*.ilg
+*.ind
+
+# Amsthm
+*.thm
+
+# Beamer
+*.nav
+*.snm
+*.vrb
+
+# Endnotes
+*.ent
+
+# Fixme
+*.lox
+
+# Glossaries
+*.alg
+*.glg-abr
+
+# Gnuplot
+*.gnuplot
+*.table
+
+# Gnuplottex
+*-gnuplottex-*
+
+# Gregoriotex
+*.gaux
+*.glog
+*.gtex
+
+# Latexindent
+indent.log
+
+# Changes
+*.soc
+
+# Comment package
+*.cut
+
+# Cprotect
+*.cpt
+
+# Enumitem
+*-labels.tex
+
+# Listings
+*.lol
+
+# Makefile
+*.make
+
+# Minted
+_minted*
+*.pyg
+
+# Morewrites
+*.mw
+
+# Mylatexformat
+*.fmt
+
+# Nomencl
+*.nlg
+*.nlo
+*.nls
+
+# Pax
+*.pax
+
+# Pdfpcnotes
+*.pdfpc
+
+# Sagetex
+*.sagetex.sage
+*.sagetex.py
+*.sagetex.scmd
+
+# Scrwfile
+*.wrt
+
+# Sympy
+*.sout
+*.sympy
+sympy-plots-for-*.tex/
+
+# Pdfcomment
+*.upa
+*.upb
+
+# Pythontex
+*.pytxcode
+pythontex-files-*/
+
+# Tcolorbox
+*.listing
+
+# Thmtools
+*.loe
+
+# TikZ & PGF
+*.dpth
+*.md5
+*.auxlock
+
+# Titletoc
+*.ptc
+
+# Todonotes
+*.tdo
+
+# Vhistory
+*.hst
+*.ver
+
+# Easy-todo
+*.lod
+
+# Xcolor
+*.xcp
+
+# Xmpincl
+*.xmpi
+
+# Xindy
+*.mw
+*.slg
+*.slo
+*.sls
+
+# Xypic precompiled matrices and outlines
+*.xyc
+*.xyd
+
+# Endfloat
+*.ttt
+*.fff
+
+# Latexian
+TSWLatexianTemp*
+
+# MacOS
+.DS_Store
+
+# Editor backup files
+*~
+*.swp
+*.swo
+*.bak
+
+# LaTeX source files (excluded from publication)
+*.tex
+*.bib
+
+# Only keep the following files in the repository:
+# - bridging-gap-game-dev-employability.pdf
+# - README.md
+# - .gitignore (this file)
